@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    width: 10%;
+  }
+
+  .tab{
+    width: 95%;
+    margin-left: 2.5%;
+  }
+  h1{    text-align: center;
+    color: blueviolet;
+    margin: 25px 0 0 0;
+    text-decoration: underline;}

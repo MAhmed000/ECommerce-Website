@@ -1,0 +1,68 @@
+{
+  "product": [
+    {
+      "productname": "OPPO F5",
+      "productcategory": "Electronics",
+      "productdate": "2022-07-08T19:00:00.000Z",
+      "freshnesssItem": "Brand New",
+      "productprice": 181.13,
+      "comment": "Brand New Mobile With Good Specs.. 6 GB Ram",
+      "id": 2
+    },
+    {
+      "productname": "Water Malen",
+      "productcategory": "Fruits",
+      "productdate": "2022-07-08T19:00:00.000Z",
+      "freshnesssItem": "Brand New",
+      "productprice": 40,
+      "comment": "Fresh",
+      "id": 3
+    },
+    {
+      "productname": "Apple",
+      "productcategory": "Fruits",
+      "productdate": "2022-07-08T19:00:00.000Z",
+      "freshnesssItem": "Brand New",
+      "productprice": 0.73,
+      "comment": "Fresh",
+      "id": 4
+    },
+    {
+      "productname": "Grapes",
+      "productcategory": "Fruits",
+      "productdate": "2022-07-08T19:00:00.000Z",
+      "freshnesssItem": "Brand New",
+      "productprice": 0.95,
+      "comment": "Fresh",
+      "id": 5
+    },
+    {
+      "productname": "Infinix Smart 5",
+      "productcategory": "Electronics",
+      "productdate": "2022-07-08T19:00:00.000Z",
+      "freshnesssItem": "Brand New",
+      "productprice": 96.82,
+      "comment": "New",
+      "id": 6
+    },
+    {
+      "productname": "Rolix Watch",
+      "productcategory": "Electronics",
+      "productdate": "2022-07-08T19:00:00.000Z",
+      "freshnesssItem": "Second Hand",
+      "productprice": 50,
+      "comment": "Its in Good Condition",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
